@@ -1,6 +1,6 @@
 
 public class Happy {
     public static void main(String[] args) {
-		System.out.println("gitDemo2 message");  
+		System.out.println("gitDemo2 message");    
 	}
 }
