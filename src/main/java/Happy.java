@@ -1,5 +1,6 @@
 
 public class Happy {
     public static void main(String[] args) {
-    System.out.println("草泥馬的比");
+    System.out.println("草泥馬的比");  
 }
+
